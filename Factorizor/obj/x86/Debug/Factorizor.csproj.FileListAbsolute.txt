@@ -1,0 +1,6 @@
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Factorizor/bin/Debug/Factorizor.exe
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Factorizor/bin/Debug/Factorizor.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Factorizor/obj/x86/Debug/Factorizor.csprojAssemblyReference.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Factorizor/obj/x86/Debug/Factorizor.csproj.CoreCompileInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Factorizor/obj/x86/Debug/Factorizor.exe
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Factorizor/obj/x86/Debug/Factorizor.pdb
