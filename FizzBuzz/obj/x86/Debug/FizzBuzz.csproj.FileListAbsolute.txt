@@ -1,0 +1,6 @@
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/FizzBuzz/bin/Debug/FizzBuzz.exe
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/FizzBuzz/bin/Debug/FizzBuzz.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/FizzBuzz/obj/x86/Debug/FizzBuzz.csprojAssemblyReference.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/FizzBuzz/obj/x86/Debug/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/FizzBuzz/obj/x86/Debug/FizzBuzz.exe
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/FizzBuzz/obj/x86/Debug/FizzBuzz.pdb
