@@ -1,0 +1,3 @@
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame/bin/Release/GuessingGame.exe
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame/obj/x86/Release/GuessingGame.csproj.CoreCompileInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame/obj/x86/Release/GuessingGame.exe

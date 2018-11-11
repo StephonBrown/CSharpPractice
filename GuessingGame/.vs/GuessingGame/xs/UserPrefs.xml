@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{650EA2C1-73B9-4CC2-B678-AAABE140F27E}|Default">
+﻿<Properties StartupConfiguration="{183EE47B-C592-4350-BCD1-6DB8829E48C1}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="23" Column="51" />
+      <File FileName="Program.cs" Line="104" Column="122" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.FizzBuzz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GuessingGame PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

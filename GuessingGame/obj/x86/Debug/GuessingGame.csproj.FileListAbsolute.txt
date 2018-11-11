@@ -1,0 +1,6 @@
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame/bin/Debug/GuessingGame.exe
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame/bin/Debug/GuessingGame.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame/obj/x86/Debug/GuessingGame.csprojAssemblyReference.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame/obj/x86/Debug/GuessingGame.csproj.CoreCompileInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame/obj/x86/Debug/GuessingGame.exe
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame/obj/x86/Debug/GuessingGame.pdb
