@@ -1,0 +1,14 @@
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/bin/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.deps.json
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/bin/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.runtimeconfig.json
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/bin/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.runtimeconfig.dev.json
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/bin/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/bin/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/bin/Debug/netcoreapp2.1/SB.ConsoleUtilities.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/bin/Debug/netcoreapp2.1/SB.ConsoleUtilities.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/obj/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.csprojAssemblyReference.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/obj/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.csproj.CoreCompileInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/obj/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.AssemblyInfoInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/obj/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.AssemblyInfo.cs
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/obj/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.csproj.CopyComplete
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/obj/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/UI/obj/Debug/netcoreapp2.1/SB.CosoleUtilities.UI.pdb

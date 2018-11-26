@@ -1,0 +1,9 @@
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/bin/Debug/SB.GuessingGame.UI.exe
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/bin/Debug/SB.GuessingGame.UI.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/bin/Debug/GuessingGame.BLL.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/bin/Debug/GuessingGame.BLL.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/obj/x86/Debug/SB.GuessingGame.UI.csprojAssemblyReference.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/obj/x86/Debug/SB.GuessingGame.UI.csproj.CoreCompileInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/obj/x86/Debug/SB.GuessingGame.UI.csproj.CopyComplete
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/obj/x86/Debug/SB.GuessingGame.UI.exe
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/obj/x86/Debug/SB.GuessingGame.UI.pdb

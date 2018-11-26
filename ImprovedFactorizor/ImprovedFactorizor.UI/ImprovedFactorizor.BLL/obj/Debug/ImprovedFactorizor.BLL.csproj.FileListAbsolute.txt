@@ -1,0 +1,5 @@
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/ImprovedFactorizor.BLL/bin/Debug/ImprovedFactorizor.BLL.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/ImprovedFactorizor.BLL/bin/Debug/ImprovedFactorizor.BLL.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/ImprovedFactorizor.BLL/obj/Debug/ImprovedFactorizor.BLL.csproj.CoreCompileInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/ImprovedFactorizor.BLL/obj/Debug/ImprovedFactorizor.BLL.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/ImprovedFactorizor.BLL/obj/Debug/ImprovedFactorizor.BLL.pdb

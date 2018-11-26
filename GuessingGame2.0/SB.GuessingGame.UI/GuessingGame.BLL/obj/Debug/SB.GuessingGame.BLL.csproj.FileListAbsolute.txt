@@ -1,0 +1,5 @@
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/GuessingGame.BLL/bin/Debug/GuessingGame.BLL.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/GuessingGame.BLL/bin/Debug/GuessingGame.BLL.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/GuessingGame.BLL/obj/Debug/SB.GuessingGame.BLL.csproj.CoreCompileInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/GuessingGame.BLL/obj/Debug/GuessingGame.BLL.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/GuessingGame2.0/SB.GuessingGame.UI/GuessingGame.BLL/obj/Debug/GuessingGame.BLL.pdb

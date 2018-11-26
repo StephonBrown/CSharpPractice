@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{92F47A83-79DA-4E1D-BFB9-C5D4D73856E1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApplicationFlow.cs">
+    <Files>
+      <File FileName="Program.cs" Line="7" Column="44" />
+      <File FileName="ImprovedFactorizor.BLL/Factorize.cs" Line="6" Column="19" />
+      <File FileName="ConsoleInput.cs" Line="44" Column="2" />
+      <File FileName="ConsoleOutput.cs" Line="14" Column="13" />
+      <File FileName="ApplicationFlow.cs" Line="15" Column="72" />
+      <File FileName="ImprovedFactorizor.Tests/FactoringTests.cs" Line="35" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ImprovedFactorizor.UI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/obj/x86/Debug/ImprovedFactorizor.UI.csprojAssemblyReference.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/obj/x86/Debug/ImprovedFactorizor.UI.csproj.CoreCompileInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/bin/Debug/ImprovedFactorizor.UI.exe
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/bin/Debug/ImprovedFactorizor.UI.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/bin/Debug/ImprovedFactorizor.BLL.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/bin/Debug/ImprovedFactorizor.BLL.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/obj/x86/Debug/ImprovedFactorizor.UI.csproj.CopyComplete
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/obj/x86/Debug/ImprovedFactorizor.UI.exe
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/ImprovedFactorizor/ImprovedFactorizor.UI/obj/x86/Debug/ImprovedFactorizor.UI.pdb

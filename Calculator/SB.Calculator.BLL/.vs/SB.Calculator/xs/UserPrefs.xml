@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{02895367-2341-4363-98C9-9BDBCDED627A}|Unit Tests">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SB.Calculator.Test PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{EA38E8B1-4E7F-479E-8140-AF9D9070EC48}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SB.ConsoleUtilities" expanded="True">
+            <Node name="SB.CosoleUtilities.UI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="AssemblyDependencies" expanded="True">
+                  <Node name="SB.ConsoleUtilities" selected="True" />
+                </Node>
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="SB.ConsoleUtilities" expanded="True">
+            <Node name="SB.ConsoleUtilities" expanded="True">
+              <Node name="References" selected="True" />
+              <Node name="SB" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SB.CosoleUtilities.UI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

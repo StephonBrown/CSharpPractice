@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{AD8CB765-0948-43CF-8D57-AECF8E278287}|Default">
+  <MonoDevelop.Ide.ItemProperties.SB.GuessingGame.UI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleOutput.cs">
+    <Files>
+      <File FileName="Program.cs" Line="10" Column="27" />
+      <File FileName="GuessingGame.BLL/GameManager.cs" Line="36" Column="30" />
+      <File FileName="GuessingGame.BLL/GuessResult.cs" Line="9" Column="16" />
+      <File FileName="SB.GuessingGame.Tests/GamerManagerTest.cs" Line="48" Column="48" />
+      <File FileName="ConsoleInput.cs" Line="6" Column="23" />
+      <File FileName="ConsoleOutput.cs" Line="28" Column="33" />
+      <File FileName="GameFlow.cs" Line="22" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

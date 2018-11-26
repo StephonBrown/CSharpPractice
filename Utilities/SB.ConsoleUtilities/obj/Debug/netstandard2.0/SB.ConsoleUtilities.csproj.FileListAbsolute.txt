@@ -1,0 +1,9 @@
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/bin/Debug/netstandard2.0/SB.ConsoleUtilities.deps.json
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/bin/Debug/netstandard2.0/SB.ConsoleUtilities.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/bin/Debug/netstandard2.0/SB.ConsoleUtilities.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/obj/Debug/netstandard2.0/SB.ConsoleUtilities.csprojAssemblyReference.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/obj/Debug/netstandard2.0/SB.ConsoleUtilities.csproj.CoreCompileInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/obj/Debug/netstandard2.0/SB.ConsoleUtilities.AssemblyInfoInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/obj/Debug/netstandard2.0/SB.ConsoleUtilities.AssemblyInfo.cs
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/obj/Debug/netstandard2.0/SB.ConsoleUtilities.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Utilities/SB.ConsoleUtilities/obj/Debug/netstandard2.0/SB.ConsoleUtilities.pdb

@@ -1,0 +1,6 @@
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Calculator/SB.Calculator.BLL/bin/Debug/SB.Calculator.BLL.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Calculator/SB.Calculator.BLL/bin/Debug/SB.Calculator.BLL.pdb
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Calculator/SB.Calculator.BLL/obj/Debug/SB.Calculator.BLL.csprojAssemblyReference.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Calculator/SB.Calculator.BLL/obj/Debug/SB.Calculator.BLL.csproj.CoreCompileInputs.cache
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Calculator/SB.Calculator.BLL/obj/Debug/SB.Calculator.BLL.dll
+/Users/sbrown6/Desktop/Repos/GitHub/CSharpPractice/Calculator/SB.Calculator.BLL/obj/Debug/SB.Calculator.BLL.pdb
