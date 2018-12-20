@@ -1,0 +1,11 @@
+B:\Repo\C#\Practice\PracticeApp\ListPractice\bin\Debug\netcoreapp2.1\ListPractice.deps.json
+B:\Repo\C#\Practice\PracticeApp\ListPractice\bin\Debug\netcoreapp2.1\ListPractice.runtimeconfig.json
+B:\Repo\C#\Practice\PracticeApp\ListPractice\bin\Debug\netcoreapp2.1\ListPractice.runtimeconfig.dev.json
+B:\Repo\C#\Practice\PracticeApp\ListPractice\bin\Debug\netcoreapp2.1\ListPractice.dll
+B:\Repo\C#\Practice\PracticeApp\ListPractice\bin\Debug\netcoreapp2.1\ListPractice.pdb
+B:\Repo\C#\Practice\PracticeApp\ListPractice\obj\Debug\netcoreapp2.1\ListPractice.csprojAssemblyReference.cache
+B:\Repo\C#\Practice\PracticeApp\ListPractice\obj\Debug\netcoreapp2.1\ListPractice.csproj.CoreCompileInputs.cache
+B:\Repo\C#\Practice\PracticeApp\ListPractice\obj\Debug\netcoreapp2.1\ListPractice.AssemblyInfoInputs.cache
+B:\Repo\C#\Practice\PracticeApp\ListPractice\obj\Debug\netcoreapp2.1\ListPractice.AssemblyInfo.cs
+B:\Repo\C#\Practice\PracticeApp\ListPractice\obj\Debug\netcoreapp2.1\ListPractice.dll
+B:\Repo\C#\Practice\PracticeApp\ListPractice\obj\Debug\netcoreapp2.1\ListPractice.pdb

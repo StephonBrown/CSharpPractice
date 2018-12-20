@@ -1,0 +1,11 @@
+B:\Repo\C#\Practice\PracticeApp\ListGroupings\bin\Debug\netcoreapp2.1\ListGroupings.deps.json
+B:\Repo\C#\Practice\PracticeApp\ListGroupings\bin\Debug\netcoreapp2.1\ListGroupings.runtimeconfig.json
+B:\Repo\C#\Practice\PracticeApp\ListGroupings\bin\Debug\netcoreapp2.1\ListGroupings.runtimeconfig.dev.json
+B:\Repo\C#\Practice\PracticeApp\ListGroupings\bin\Debug\netcoreapp2.1\ListGroupings.dll
+B:\Repo\C#\Practice\PracticeApp\ListGroupings\bin\Debug\netcoreapp2.1\ListGroupings.pdb
+B:\Repo\C#\Practice\PracticeApp\ListGroupings\obj\Debug\netcoreapp2.1\ListGroupings.csprojAssemblyReference.cache
+B:\Repo\C#\Practice\PracticeApp\ListGroupings\obj\Debug\netcoreapp2.1\ListGroupings.csproj.CoreCompileInputs.cache
+B:\Repo\C#\Practice\PracticeApp\ListGroupings\obj\Debug\netcoreapp2.1\ListGroupings.AssemblyInfoInputs.cache
+B:\Repo\C#\Practice\PracticeApp\ListGroupings\obj\Debug\netcoreapp2.1\ListGroupings.AssemblyInfo.cs
+B:\Repo\C#\Practice\PracticeApp\ListGroupings\obj\Debug\netcoreapp2.1\ListGroupings.dll
+B:\Repo\C#\Practice\PracticeApp\ListGroupings\obj\Debug\netcoreapp2.1\ListGroupings.pdb

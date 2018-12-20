@@ -1,0 +1,11 @@
+B:\Repo\C#\Practice\PracticeApp\PracticeExample\obj\Debug\netcoreapp2.1\PracticeExample.csprojAssemblyReference.cache
+B:\Repo\C#\Practice\PracticeApp\PracticeExample\obj\Debug\netcoreapp2.1\PracticeExample.csproj.CoreCompileInputs.cache
+B:\Repo\C#\Practice\PracticeApp\PracticeExample\obj\Debug\netcoreapp2.1\PracticeExample.AssemblyInfoInputs.cache
+B:\Repo\C#\Practice\PracticeApp\PracticeExample\obj\Debug\netcoreapp2.1\PracticeExample.AssemblyInfo.cs
+B:\Repo\C#\Practice\PracticeApp\PracticeExample\bin\Debug\netcoreapp2.1\PracticeExample.deps.json
+B:\Repo\C#\Practice\PracticeApp\PracticeExample\bin\Debug\netcoreapp2.1\PracticeExample.runtimeconfig.json
+B:\Repo\C#\Practice\PracticeApp\PracticeExample\bin\Debug\netcoreapp2.1\PracticeExample.runtimeconfig.dev.json
+B:\Repo\C#\Practice\PracticeApp\PracticeExample\bin\Debug\netcoreapp2.1\PracticeExample.dll
+B:\Repo\C#\Practice\PracticeApp\PracticeExample\bin\Debug\netcoreapp2.1\PracticeExample.pdb
+B:\Repo\C#\Practice\PracticeApp\PracticeExample\obj\Debug\netcoreapp2.1\PracticeExample.dll
+B:\Repo\C#\Practice\PracticeApp\PracticeExample\obj\Debug\netcoreapp2.1\PracticeExample.pdb
