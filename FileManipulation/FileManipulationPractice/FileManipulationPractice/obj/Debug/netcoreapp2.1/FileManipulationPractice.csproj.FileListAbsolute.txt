@@ -1,0 +1,11 @@
+B:\Repo\GitHub\C# Practice\CSharpPractice\FileManipulation\FileManipulationPractice\FileManipulationPractice\bin\Debug\netcoreapp2.1\FileManipulationPractice.deps.json
+B:\Repo\GitHub\C# Practice\CSharpPractice\FileManipulation\FileManipulationPractice\FileManipulationPractice\bin\Debug\netcoreapp2.1\FileManipulationPractice.runtimeconfig.json
+B:\Repo\GitHub\C# Practice\CSharpPractice\FileManipulation\FileManipulationPractice\FileManipulationPractice\bin\Debug\netcoreapp2.1\FileManipulationPractice.runtimeconfig.dev.json
+B:\Repo\GitHub\C# Practice\CSharpPractice\FileManipulation\FileManipulationPractice\FileManipulationPractice\bin\Debug\netcoreapp2.1\FileManipulationPractice.dll
+B:\Repo\GitHub\C# Practice\CSharpPractice\FileManipulation\FileManipulationPractice\FileManipulationPractice\bin\Debug\netcoreapp2.1\FileManipulationPractice.pdb
+B:\Repo\GitHub\C# Practice\CSharpPractice\FileManipulation\FileManipulationPractice\FileManipulationPractice\obj\Debug\netcoreapp2.1\FileManipulationPractice.csprojAssemblyReference.cache
+B:\Repo\GitHub\C# Practice\CSharpPractice\FileManipulation\FileManipulationPractice\FileManipulationPractice\obj\Debug\netcoreapp2.1\FileManipulationPractice.csproj.CoreCompileInputs.cache
+B:\Repo\GitHub\C# Practice\CSharpPractice\FileManipulation\FileManipulationPractice\FileManipulationPractice\obj\Debug\netcoreapp2.1\FileManipulationPractice.AssemblyInfoInputs.cache
+B:\Repo\GitHub\C# Practice\CSharpPractice\FileManipulation\FileManipulationPractice\FileManipulationPractice\obj\Debug\netcoreapp2.1\FileManipulationPractice.AssemblyInfo.cs
+B:\Repo\GitHub\C# Practice\CSharpPractice\FileManipulation\FileManipulationPractice\FileManipulationPractice\obj\Debug\netcoreapp2.1\FileManipulationPractice.dll
+B:\Repo\GitHub\C# Practice\CSharpPractice\FileManipulation\FileManipulationPractice\FileManipulationPractice\obj\Debug\netcoreapp2.1\FileManipulationPractice.pdb

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FileManipulation",
+    "\\FileManipulation\\FileManipulationPractice",
+    "\\FileManipulation\\FileManipulationPractice\\FileManipulationPractice",
+    "\\FileManipulation\\FileManipulationPractice\\FileManipulationPractice\\bin",
+    "\\FileManipulation\\FileManipulationPractice\\FileManipulationPractice\\bin\\Debug",
+    "\\FileManipulation\\FileManipulationPractice\\FileManipulationPractice\\bin\\Debug\\netcoreapp2.1"
+  ],
+  "SelectedNode": "\\FileManipulation\\FileManipulationPractice\\FileManipulationPractice\\bin\\Debug\\netcoreapp2.1\\List.txt",
+  "PreviewInSolutionExplorer": false
+}
